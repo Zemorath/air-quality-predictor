@@ -1,0 +1,14 @@
+pm25
+pm10
+o3
+no2
+so2
+co
+temperature
+humidity
+wind_speed
+pressure
+latitude
+longitude
+day_of_year
+month
